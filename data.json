@@ -1,0 +1,16 @@
+[
+  {
+    "city": "Zagreb",
+    "dates": [
+      { "date": "2024-12-05", "type": "plastika" },
+      { "date": "2024-12-12", "type": "papir" }
+    ]
+  },
+  {
+    "city": "Split",
+    "dates": [
+      { "date": "2024-12-06", "type": "plastika" },
+      { "date": "2024-12-13", "type": "papir" }
+    ]
+  }
+]
